@@ -1,0 +1,5 @@
+
+
+sort data.txt|uniq -u
+EN632PlfYiZbn3PhVK3XOGSlNInNE00t
+exit
